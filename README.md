@@ -64,8 +64,6 @@ Connect:
 ![#SelfTaught](https://github.com/selftaught)
 ![#Developer](https://github.com/developer)
 
-Last updated: January 2026
-
 ---
 
 ![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
