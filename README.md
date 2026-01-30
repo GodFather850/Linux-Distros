@@ -56,6 +56,16 @@ Connect:
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-shaygan-2a96a8387/)  
 🐙 [GitHub](https://github.com/GodFather850)
 
-#Linux #Debian #LXQt #XFCE #OpenSource #SelfTaught #Developer
+![#Linux](https://github.com/linux)
+![#Debian](https://github.com/debian)
+![#LXQt](https://github.com/LXQt)
+![#XFCE](https://github.com/XFCE)
+![#OpenSource](https://github.com/opensource)
+![#SelfTaught](https://github.com/selftaught)
+![#Developer](https://github.com/developer)
 
 Last updated: January 2026
+
+---
+
+![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
